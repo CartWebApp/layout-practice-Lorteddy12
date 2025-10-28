@@ -3,7 +3,8 @@ nav {
     background-color: black;
     color: white;
     padding: 20px;
-    text-align: center;
+    text-align:center;
+    ;
 }
 .large-mountain-range {
     display: flex;
@@ -39,3 +40,12 @@ font-family: 'Georgia', serif;
 
 
 }
+.first {
+display:flex;
+flex-direction:row;
+align-items: center;
+justify-content: ;
+
+}
+
+. 2nd
